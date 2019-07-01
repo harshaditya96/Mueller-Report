@@ -1,0 +1,6 @@
+Two data files are included : 
+mnist_all.mat : MNIST original dataset with 10 matrices for testing fet and 10 matrices for trainig set, 
+which corresponding to 10 digits.
+face_all.pickle : sample face images from the CelebA dataset. One data matrix and one corrsponding labels vector. 
+
+Link to Celebrity face dataset : https://drive.google.com/open?id=1NMyZBGA6bR9B4NWK9aJmruCPk3lGf41F
